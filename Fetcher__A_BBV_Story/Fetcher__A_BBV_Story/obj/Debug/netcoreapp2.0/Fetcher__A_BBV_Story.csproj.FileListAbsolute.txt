@@ -1,0 +1,11 @@
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\bin\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.deps.json
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\bin\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.runtimeconfig.json
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\bin\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.runtimeconfig.dev.json
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\bin\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.dll
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\bin\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.pdb
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.csprojResolveAssemblyReference.cache
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.csproj.CoreCompileInputs.cache
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.AssemblyInfoInputs.cache
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.AssemblyInfo.cs
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.dll
+C:\Users\gscrean\source\repos\Fetcher__A_BBV_Story\Fetcher__A_BBV_Story\obj\Debug\netcoreapp2.0\Fetcher__A_BBV_Story.pdb
